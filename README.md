@@ -24,6 +24,3 @@ Deep Learning Assignment for conversion Sign Language to Text format
 3) For the 50 frames predicted text conversion will be stored in backend and most predicted character will be displayed in front of character. 
 4) When all the characters will be predicted don't show any sign language in screen. When Model finds blank screen it predicts word is completed. 
 5) After Predicting all characters it will be shifted in front of word and if blank screen continues it will be shifted in front of sentence.
-
-# Images of Project
-Image 1) Sign Language Conversion Portal Home Page
